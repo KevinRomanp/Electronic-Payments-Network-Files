@@ -1,0 +1,46 @@
+{
+  "id": "7b2ff380-581c-40c6-9722-94000480d879",
+  "name": "EPN Files",
+  "publisher": "Kevin Roman",
+  "version": "1.0.0.6",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "LogoOriginal.png",
+  "dependencies": [
+    {
+      "id": "dc9f2114-cdfc-4bde-8c06-ac259a176816",
+      "publisher": "Kevin Roman",
+      "name": "Localization",
+      "version": "1.1.1.72" 
+    }
+    ,
+    {
+    "id": "7166e110-ccb5-49eb-b455-a436d564f86a",
+    "name": "DesarrollosBase",
+    "publisher": "Kevin Roman",
+    "version": "1.0.0.19"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 55150
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
